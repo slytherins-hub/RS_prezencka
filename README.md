@@ -3,7 +3,7 @@
 ### Úkol 1
 * Naklonujte si obsah tohoto repozitáře.
   ```
-  https://github.com/slytherins-hub/KJ_prezencka.git
+  https://github.com/slytherins-hub/RS_prezencka.git
   ```
 * V pracovním adresáři repozitáře vytvořte prázdný textový soubor a uložte ho pod svým jménem `jmeno_prijmeni.txt`. Nepoužívejte diaktritiku.
 * Vytvořte novou revizi.
